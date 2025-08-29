@@ -27,14 +27,13 @@ chromadb==0.6.3
 faiss-cpu
 
 # ML / NLP dependencies
-numpy==1.26.4
+numpy
 pandas==2.3.1
 scikit-learn==1.7.1
 transformers==4.53.3
 torch==2.7.1
 accelerate
 bitsandbytes
-xformers==0.0.29.post3
 sentencepiece
 
 # TTS / STT
